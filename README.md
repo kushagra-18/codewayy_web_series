@@ -1,1 +1,1 @@
-# codewayy_web_series
+# All the tasks from web development series will be uploaded here
